@@ -1,2 +1,2 @@
-# MLO-PS-kuburnetes
+# MLOPS-kuburnetes
 This is a mini kunurnetes project.
